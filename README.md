@@ -4,14 +4,6 @@ A basic Typewriter template.
 
 https://user-images.githubusercontent.com/1629785/159452042-e04aee0c-745a-4e75-aeed-cf1fc3e78a8a.mp4
 
-<p align="center">
-  <a href="https://github.com/remotion-dev/logo">
-    <img src="https://github.com/remotion-dev/logo/raw/main/withtitle/element-0.png">
-  </a>
-</p>
-
-Welcome to your Remotion project!
-
 ## Commands
 
 **Install Dependencies**

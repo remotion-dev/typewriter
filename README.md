@@ -1,5 +1,9 @@
 # Remotion video
 
+A basic Typewriter template.
+
+https://user-images.githubusercontent.com/1629785/159452042-e04aee0c-745a-4e75-aeed-cf1fc3e78a8a.mp4
+
 <p align="center">
   <a href="https://github.com/remotion-dev/logo">
     <img src="https://github.com/remotion-dev/logo/raw/main/withtitle/element-0.png">
@@ -48,4 +52,5 @@ Found an issue with Remotion? [File an issue here](https://github.com/remotion-d
 
 ## License
 
-Notice that for some entities a company license is needed. Read [the terms here](https://github.com/remotion-dev/remotion/blob/main/LICENSE.md).
+This component: MIT
+The Remotion library: Notice that for some entities a company license is needed. Read [the terms here](https://github.com/remotion-dev/remotion/blob/main/LICENSE.md).
